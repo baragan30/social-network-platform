@@ -1,0 +1,144 @@
+#user1
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 10%;
+color: white;
+display: block;
+text-align: center;
+padding-top: 10px;
+}
+
+#user2
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 5%;
+color: white;
+display: block;
+text-align: center;
+padding-top: 10px;
+}
+
+#user3
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 5%;
+color: white;
+display: block;
+text-align: center;
+padding-top: 10px;
+}
+
+#user4
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 5%;
+color: white;
+display: block;
+text-align: center;
+padding-top: 10px;
+}
+
+#user5
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 5%;
+color: white;
+display: block;
+text-align: center;
+padding-top: 10px;
+}
+
+#save_btn{
+    background-color:#20DF7F !important;
+    border: #20df7f 2px solid;
+    border-radius: 25px;
+    width:50%;
+    margin-top: 2%;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+}
+
+.checkbox_1{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-top: 7%;
+    margin-bottom: 2.5%;
+}
+
+.checkbox_2{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-top: 4%; 
+    margin-bottom: 2.5%;  
+}
+
+.checkbox_3{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-top: 5%;  
+    margin-bottom: 2.5%; 
+}
+
+.checkbox_4{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-top: 4.75%;   
+    margin-bottom: 2.5%;
+}
+
+.checkbox_5{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-top: 5%; 
+    /* margin-bottom: 2.5%;   */
+}
+
+.column1 {
+    float: left;
+    width: 35%;
+    /* padding: 10px; */
+  }
+
+.column2 {
+    float: left;
+    width: 65%;
+    /* padding: 10px; */
+}
+
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.border-box{
+   box-sizing: border-box;
+}

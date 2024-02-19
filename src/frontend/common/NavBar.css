@@ -1,0 +1,20 @@
+.sidebar {
+    top: 0;
+    position: fixed;
+    min-height: 100vh !important;
+    background-color: #224957;
+    width: 255px;
+}
+
+.nav-bar-icon{
+    color:#20df7f; 
+     width: 30px;
+    height: 30px;
+    margin: 6px;
+}
+.nav-logo{
+    background-color: #20df7f;
+    color: white;
+    height: 100px;
+    width: 100px;
+}

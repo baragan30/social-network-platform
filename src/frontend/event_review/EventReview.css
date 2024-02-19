@@ -1,0 +1,83 @@
+h1{
+    margin-bottom: 15px;
+}
+h4{
+    margin-top: 15px;
+}
+.event-container
+{
+    padding: 30px;
+}
+
+.header-image{
+    
+}
+.review-body{
+    background-color:yellow;
+}
+.review-body .card{
+    background-color:yellow;
+    padding: 20px;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding-left:0px;
+}
+.on {
+    color: #224957;
+}
+.off {
+    color: #ccc;
+}
+.star{
+    font-size: 30px;
+}
+.star-comment{
+    font-size: 20px;
+}
+
+.category-element{
+    background-color: #20DF7F;
+    color: white;
+    padding:5px;
+    border: #20df7f 2px solid;
+    border-radius: 25px;
+    margin-bottom:10px;
+    font-size:12px;
+}
+
+.review-container{
+    padding:10px;
+    padding-top:0px;
+    border: #224957 1px solid;
+    margin-top: 20px;
+}
+
+.btn-primary {
+    background-color:#20DF7F !important;
+    width:100%;
+    border: #20df7f 2px solid;
+    border-radius: 25px;
+}
+
+.user-image{
+    border-radius: 50%;
+    border: 1px black solid;
+    width: 80px;
+}
+
+.comment-section{
+    padding: 15px;
+}
+
+.old-message{
+    color: #9b9a9a;
+}
+
+.comment{
+    padding: 15px
+}

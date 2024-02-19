@@ -1,0 +1,47 @@
+#name
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 50px;
+color: white;
+display: block;
+}
+
+#price
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 35px;
+color: white;
+display: block;
+}
+
+#addbtn{
+    background-color:#20DF7F !important;
+    border: #20df7f 2px solid;
+    border-radius: 25px;
+    width:25%;
+    margin-top: 13%;
+    margin-left: 17%;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+#deletebtn{
+    background-color:#20DF7F !important;
+    border: #20df7f 2px solid;
+    border-radius: 25px;
+    width:25%;
+    margin-top: 13%;
+    margin-left: 10%;
+    text-align: center;
+    color: white;
+    float: left;
+}

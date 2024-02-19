@@ -1,0 +1,45 @@
+#root{
+    background-color: #dadada;
+    height: 1vh;
+}
+.Body{
+    color: #224957;
+}
+.Register{
+    padding-top:140px;
+}
+.Login{
+    padding-top:220px;
+}
+.btn-primary {
+    background-color:#20DF7F !important;
+    color: #224957 !important;
+    border: none !important;
+    width:100%;
+    margin-left: 8%;
+}
+.form-control{
+    background-color: #224957 !important;
+    color: white !important;;
+}
+
+.form-control::placeholder{
+    color: white !important;;
+}
+
+.link{
+    cursor: pointer;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.link:hover{
+      color: grey;
+      text-decoration: none;
+  }
+
+.react-confirm-alert-body {
+    background-color: #20DF7F !important;
+    color: #ffff !important;
+}

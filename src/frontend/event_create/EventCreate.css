@@ -1,0 +1,129 @@
+#title
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 50px;
+color: white;
+display: block;
+}
+
+#owner
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 25px;
+color: white;
+display: block;
+}
+
+#date
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 25px;
+color: white;
+display: block;
+}
+
+#location
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 25px;
+color: white;
+display: block;
+}
+
+#description
+{
+background-color:#224957;
+height:200px;
+width:1000px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 25px;
+color: white;
+display: block;
+text-align: left;
+display:inline-block;
+}
+
+#add_event_btn{
+    background-color:#20DF7F !important;
+    border: #20df7f 2px solid;
+    border-radius: 25px;
+    width:50%;
+    margin-top: 2%;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+}
+
+#category_btn{
+    /* background-color:#20DF7F; */
+    /* border: #20df7f 2px solid; */
+    border-radius: 25px;
+    width: 35%;
+    margin-top: 50px;
+    margin-left: 40%;
+    text-align: center;
+    /* color: #20DF7F ; */
+    /* text-decoration: #20DF7F; */
+    position: relative;
+    resize: none;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    /* padding: 10px; */
+  }
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.border-box{
+   box-sizing: border-box;
+}
+
+  .iconClass {
+    color:#20DF7F !important;
+    width: 100%;
+    height: 100%;
+  }
+
+  .wheelchairButton {
+    border: #20df7f 2px solid;
+    border-radius: 50%;
+    margin-top: 150px;
+    margin-left: 15px;
+     width: 15%;
+    height: 15%;
+    float: left;
+  }
+
+  .signButton {
+     border: #20df7f 2px solid;
+     border-radius: 50%;
+     margin-top: 150px;
+     margin-left: 40%;
+      width: 15%;
+     height: 15%;
+     float: left;    
+  }

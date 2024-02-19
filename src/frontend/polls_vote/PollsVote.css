@@ -1,0 +1,110 @@
+#event_idea1
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 5%;
+color: white;
+display: block;
+text-align: center;
+padding-top: 10px;
+}
+
+#event_idea2
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 5%;
+color: white;
+display: block;
+text-align: center;
+padding-top: 10px;
+}
+
+#event_idea3
+{
+background-color:#224957;
+height:45px;
+width:300px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 5%;
+color: white;
+display: block;
+text-align: center;
+padding-top: 10px;
+}
+
+#description
+{
+background-color:#224957;
+height:200px;
+width:1000px;
+border-radius:10px;
+margin-left: 100px;
+margin-top: 25px;
+margin-bottom: 0px;
+color: white;
+display: block;
+}
+
+#vote_btn{
+    background-color:#20DF7F !important;
+    border: #20df7f 2px solid;
+    border-radius: 25px;
+    width:50%;
+    margin-top: 2%;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+}
+
+.checkbox1{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-top: 4%;
+}
+
+.checkbox2{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-top: 5%;   
+}
+
+.checkbox3{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-top: 5%;   
+}
+
+.column1 {
+    float: left;
+    width: 35%;
+    /* padding: 10px; */
+  }
+
+.column2 {
+    float: left;
+    width: 65%;
+    /* padding: 10px; */
+}
+
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.border-box{
+   box-sizing: border-box;
+}

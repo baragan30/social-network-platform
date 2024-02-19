@@ -1,0 +1,37 @@
+.chat_title{
+    margin-top: 20px;
+    margin-left: 400px;
+    font-size: 20px;
+    font-weight: bold;
+} 
+
+.no_chat {
+    margin-top: 20px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+
+.messages_div {
+    overflow: scroll;
+    height: 550px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
